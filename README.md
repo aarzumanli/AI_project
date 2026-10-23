@@ -51,45 +51,6 @@ Based on the team's current status report:
 | Hasan 韩白 | `1820262209` | Video Lead | Explore and prepare the study-guide video workflow with Asad |
 | Asad 陈德 | `1820262195` | Video Lead | Explore and prepare the study-guide video workflow with Hasan |
 
-## Suggested repository structure
-
-Adjust this tree to match the actual repository. Do not claim a folder exists until it has been created.
-
-```text
-KIVAS/
-├── README.md
-├── CONTRIBUTING.md
-├── content/
-│   ├── outline.md
-│   └── course-orientation.md
-├── study-guide/
-│   └── 01-course-orientation.md
-├── slides/
-│   └── deck/
-├── assets/
-│   ├── images/
-│   └── diagrams/
-├── videos/
-│   ├── scripts/
-│   └── storyboards/
-├── references/
-│   └── references.md
-├── project-plan/
-└── evidence/
-```
-
-## Chapter 01
-
-The first chapter, **Course Orientation and Learning Foundations**, introduces:
-
-- The purpose of algorithms, data structures, and connectionist AI.
-- How these strands can work together.
-- Library search, campus route planning, and image classification examples.
-- Essential vocabulary such as input, output, state, model, prediction, and training.
-- Pseudocode and step-by-step tracing.
-- Review questions and suggested answers.
-
-The slide-oriented teaching draft and the prose-based study-guide chapter are different deliverables. Keep them in separate files so the slide plan is not confused with the standalone chapter.
 
 ## Workflow and quality checks
 
