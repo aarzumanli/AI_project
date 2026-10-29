@@ -1,6 +1,6 @@
 <div align="center">
 
-< img src="assets/banner.svg" alt="K.I.V.A.S — AI & Computer Science Study Guide" width="100%"/>
+<img src="assets/banner.svg" alt="K.I.V.A.S — AI & Computer Science Study Guide" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 > [!NOTE]
 > **Project status:** Stage 1 work in progress. Update this README as deliverables are reviewed and completed.
@@ -59,7 +59,7 @@ flowchart LR
     B --> C["🧠 Connectionist AI<br/>image classification"]
 ```
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Stage 1 objectives
 
@@ -76,7 +76,7 @@ The team is working toward a structured set of course materials that can include
 > [!IMPORTANT]
 > Only mark an item as complete after the team has checked the deliverable and its supporting evidence.
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Current progress
 
@@ -115,7 +115,7 @@ stateDiagram-v2
 
 </details>
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 👥 Team and responsibilities
 
@@ -154,7 +154,7 @@ flowchart LR
 7. Use GitHub commits and pull requests or an equivalent review process to show changes and review outcomes.
 8. Update the status only when the work has actually reached that stage.
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🤖 AI-use transparency
 
@@ -191,7 +191,7 @@ Add verified sources in [`references/references.md`](references/references.md) a
 
 Use meetings and dated group discussions to record significant decisions, responsibilities, and deadlines. Keep routine messages out of the formal log unless they change a decision or affect project progress. Update this README when the repository structure, deliverable status, or team workflow materially changes.
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
