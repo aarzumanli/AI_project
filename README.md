@@ -3,6 +3,7 @@
 <img src="assets/banner.svg" alt="K.I.V.A.S — AI & Computer Science Study Guide" width="100%"/>
 
 <br/>
+<br/>
 
 ![Stage](https://img.shields.io/badge/Stage-1-7C3AED?style=for-the-badge&labelColor=0D0B14)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-A78BFA?style=for-the-badge&labelColor=0D0B14)
@@ -129,7 +130,7 @@ stateDiagram-v2
 | **Hasan** 韩白 | `1820262209` | 🎬 Video Lead | Explore and prepare the study-guide video workflow with Asad |
 | **Asad** 陈德 | `1820262195` | 🎬 Video Lead | Explore and prepare the study-guide video workflow with Hasan |
 
-< img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Workflow and quality checks
 
